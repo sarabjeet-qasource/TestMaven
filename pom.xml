@@ -3,6 +3,7 @@
   <groupId>com.test.maven</groupId>
   <artifactId>TestMaven</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dveloper> 122</developer>
   
   <dependencies>
   <!-- https://mvnrepository.com/artifact/org.testng/testng -->
