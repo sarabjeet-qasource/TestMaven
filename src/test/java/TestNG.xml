@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite name="Suite" parallel="false">
-  <test name="Tes3443t">
+  <test name="Tes2123443t">
     <classes>
       <class name="MySampleTest"/>
     </classes>
